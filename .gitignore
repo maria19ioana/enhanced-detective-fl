@@ -1,0 +1,7 @@
+*.csv
+
+__pycache__/
+
+data/
+client_data/
+results/
