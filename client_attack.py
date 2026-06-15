@@ -10,8 +10,7 @@ class FraudClient(fl.client.NumPyClient):
         self.is_malicious = is_malicious 
         
         if is_malicious:
-            print(f"\n[!!!] WARNING: BANK {bank_id} IS COMPROMISED [!!!]")
-            #print(f"Bank {bank_id} is flipping all Fraud (1) labels to Legitimate (0)...\n")
+            print(f"\{bank_id} is malicious")
             #self.train_loader.dataset.y = torch.zeros_like(self.train_loader.dataset.y)
 
     def get_parameters(self, config):
