@@ -1,11 +1,10 @@
 **Acknowledgements**
  
-This thesis was conducted in collaboration with Orhan Ermis from the Luxembourg Institute of Science and Technology (LIST), as part of the PATTERN project.
+This project was developed as a Master's Thesis at the Faculty of Mathematics and Computer Science, University of Bucharest (UB). Furthermore, this thesis was conducted in collaboration with Orhan Ermis from the Luxembourg Institute of Science and Technology (LIST), as part of the PATTERN project.
 This research was funded in part, by the Luxembourg National Research Fund (FNR),
 grant reference INTER/CHIST23/17931746/PATTERN. This work was supported by a
 grant of the Ministry of Research, Innovation and Digitalization, CNCS/CCCDI - UEFISCDI,
 project number ERANET-CHISTERA-IV-PATTERN, within PNCDI IV.
-
 
 The theme of this project follows the evolution of vulnerabilities in federated learning systems in the context of banking fraud and how they react to “internal poisoning” attacks on both data and models. 
 In order to observe the behaviour, experiments were simulated on a network of ten financial institutions. 
